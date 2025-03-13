@@ -1,0 +1,4 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "rosco_m68k_busboard")(type "KiCad")(uri "${KIPRJMOD}/roscbus01.kicad_sym")(options "")(descr ""))
+)

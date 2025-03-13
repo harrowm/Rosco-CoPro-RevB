@@ -1,2 +1,3 @@
-# Rosco-CoPro-RevB
-The maths coprocessor board for the rsco_m68k but this time with a atf1502 cpld chip for practise with the toolset ..
+# Rosco-CoPro
+A 68882 floating point coprocessor board for the rosco_m68k SBC
+This is a version using a ATF1502 CPLD.  It is WIP, not build, and design not finished !
